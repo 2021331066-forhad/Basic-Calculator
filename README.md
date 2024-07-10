@@ -37,3 +37,5 @@ If you would like to contribute to this project, please follow these steps:
 ## Acknowledgments
 - Inspired by Our CSE Botherhood.
 - Thank you to my all SENIOR for their guidance and assistance.
+
+**Author:** [Muhammad Forhad Hasan](https://github.com/2021331066-forhad)  
